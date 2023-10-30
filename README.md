@@ -1,10 +1,8 @@
 # CBCTChat - A Content-Aware Chatbot Based on GPT-4 for the German S2 Cone-Beam CT (CBCT) Dental Imaging Guideline
 
-CBCTChat is an AI-powered chatbot tailored to provide insights and information on the German S2 Cone-Beam CT (CBCT) dental imaging guideline. Utilizing the capabilities of GPT-3.5-Turbo and GPT-4, this chatbot aims to offer specialized knowledge for research and demonstration purposes.
-
 ## Introduction
 
-`CBCTChat` is an AI-powered chatbot tailored to provide insights and information on the German S2 Cone-Beam CT (CBCT) dental imaging guideline. By leveraging the capabilities of OpenAI's GPT-3.5-Turbo and GPT-4 models, this chatbot offers specialized knowledge, primarily for research and demonstration purposes.
+‘CBCTChat‘ is an AI-powered chatbot designed to offer insights and information on the German S2 Cone-Beam CT (CBCT) dental imaging guideline. Utilizing the capabilities of LLamaIndex combined with OpenAI’s GPT-3.5-Turbo and GPT-4 models, this chatbot delivers answers grounded in specialized knowledge through an embedding-based knowledge retrieval method.
 
 ## Features
 
